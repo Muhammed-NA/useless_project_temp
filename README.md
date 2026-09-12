@@ -36,4 +36,4 @@ Additional Demos
 [Add any extra demo materials/links]
 Team Contributions
 Muhammed NA: [Hardware assembly,]
-Irfan Mohammed: [e.g. Arduino firmware — state machine, sensor filtering, motor control, wiring]
+Irfan Mohammed: [e.g. Arduino firmware — state machine, sensor filtering, motor control, wiring] 
